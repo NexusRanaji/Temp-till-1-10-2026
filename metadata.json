@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Ranaji English School - Online Examination System",
+  "description": "Secure online examination platform with role-based access for Super Admins, Teachers, Students, and Parents, featuring anti-cheating window blur monitoring, auto-grading, gamified bonus points, and a multi-turn Gemini AI chatbot with role-based personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
